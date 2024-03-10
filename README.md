@@ -4,7 +4,7 @@ Submitted by: **Maxim Lasitsa**
 
 **Wishlist App** is a wishlist app that helps the user keep track of what they want to buy.
 
-Time spent: **2.5** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
@@ -15,8 +15,8 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] Wishlist app is 🎨 **customized** 🎨
-- [ ] User can delete an item by long pressing on the item
+- [X] Wishlist app is 🎨 **customized** 🎨
+- [X] User can delete an item by long pressing on the item
 - [X] User can open an item's URL by clicking on the item (but is doesnt display anything, maybe network issue)
 
 The following **additional** features are implemented:
@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/raZlnVH.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/G66wrmc.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with   
 [ScreenToGif](https://www.screentogif.com/) for Windows
